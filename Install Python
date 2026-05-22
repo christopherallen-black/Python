@@ -1,0 +1,7 @@
+# Check Python version in terminal or command prompt
+
+python --version
+
+# Or
+
+python3 --version
