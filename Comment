@@ -1,0 +1,17 @@
+# This is a comment
+
+print("Python") # Comment after code
+
+# Comments help explain code
+# Python ignores comments
+
+
+
+"""
+This is a multi-line text block
+People often use it as a multi-line comment
+
+Python also uses it for documentation
+"""
+
+print("Hello, World")
