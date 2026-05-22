@@ -1,0 +1,3 @@
+# print() displays text on screen
+
+print("Hello World")
